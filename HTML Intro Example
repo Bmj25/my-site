@@ -1,5 +1,5 @@
- <!DOCTYPE html>
-<html>
+<!DOCTYPE html>
+<html lang="en-US">
 <head>
 <title>A Better Title Than Existed Before</title>
 </head>
@@ -11,15 +11,74 @@
 <p>My first paragraph.</p> 
 <p>This is another paragraph.</p>
 <p>This is yet another paragraph.</p> 
-
+<p> The HTML link Element and picture did not work for me </p>
 <a href="https://www.w3schools.com">This is a link to the IBT class exercise's information website</a> 
-<img src="w3schools.jpg" alt="W3Schools.com" width="104" height="142"> 
+ 
+<h1>My New Paragraph Heading</h1>
+<p>Look! I made another paragraph!</p> 
+<p>Learning that the "br" is an empty element.</p> 
+<p style="color:red;">??Can you only go up to six headings??</p> 
+
+<h1>My HTML Attributes Secton</h1>
+<p title="I'm a tooltip">This is a paragraph.</p> 
+<p>Look! Below is the second link in the tutorial</p>
+<a href="https://www.w3schools.com">Visit W3Schools</a> 
+<p style="color:red;">?? Where are pictures (like img files) pulled from? Local storage or the internet?</p>
+<p style="color:red;">This is a red paragraph.</p> 
+
+<p>This is the quotation reminder paragraph, either of the below work, but pick only one!</p>
+<p title='John "ShotGun" Nelson'>Option 1 ('John "ShotGun" Nelson')</p>
+<p title="John 'ShotGun' Nelson">Option 2 ("John 'ShotGun' Nelson")</p>
+
+<h1>This the comment section in the file</h1>
+<!--
+<p>This is a comment!</p>
+-->
+<p>This is the end of the comment section (open and look in the text editor).</p>
+<p>This comment <!-- great text --> is a in-line content one.</p> 
+
+<h1>Headings by size, size 1</h1>
+<h2>Headings by size, size 2</h2>
+<h3>Headings by size, size 3</h3>
+<h4>Headings by size, size 4</h4>
+<h5>Headings by size, size 5</h5>
+<h6>Headings by size, size 6</h6> 
+
+<h1>More paragraph magic</h1>
+<p>notice the hr after this line</p>
+<hr>
+<h2>different heading</h2>
+<p>notice the hr before this paragraph and after!</p>
+<hr> 
+<p>This is<br>a paragraph<br>with line breaks.</p> 
+
+<h1>Below is the (preformated text example)
+<pre>
+    My Bonnie lies over the ocean.
+  
+    My Bonnie lies over the sea.
+  
+    My Bonnie lies over the ocean.
+  
+    Oh, bring back my Bonnie to me.
+  </pre> 
+<p>Beatiful, right?!</p>
+
+<h1>Lists of ordered items</h1>
+<dl>
+    <dt>Coffee</dt>
+    <dd>- black hot drink</dd>
+    <dt>Milk</dt>
+    <dd>- white cold drink</dd>
+</dl> 
 
 <style>
     body {background-color: powderblue;}
     h1 {color: red;}
     p {color: blue;}
   </style> 
+
+
 
 </body>
 </html> 
